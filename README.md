@@ -12,4 +12,4 @@ React.js act as view for the view controller.
 
 1. Setup Java in VSCode
 2. Using Thymeleaf to pointing static files
-3. Run `./mvnw package` to build frontend files and copy inside target based on the pom.xml configurations
+3. Run `./mvnw package` to build frontend files and copy inside `target` folder based on the pom.xml configurations
